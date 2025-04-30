@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 # .readthedocs.yaml
-=======
->>>>>>> fcd48996c5e94dbd556083d9e8e64b68cc7fb6d7
 # Read the Docs configuration file
 # See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
 
 # Required
-version: 2.02
+version: 2
 
 # Set the version of Python and other tools you might need
 build:
